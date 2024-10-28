@@ -1,0 +1,20 @@
+2024-04-04 15:33:20
+User: 6.	A customer wishes for a TV installation for their Hisense U8K ULED TV. Is this possible and what would be the cost?
+Assistant: TV installation services are available for LG, Samsung, and Sony TVs only. Unfortunately, TV installation for the Hisense U8K ULED TV is not currently offered.
+
+2024-04-04 15:33:57
+User: 7.	Which suppliers offer early booking?
+Assistant: The suppliers offering early booking are TechAdvance for electronics and gadgets, HomeComforts for premium appliances, and LeisureGear for outdoor and sports equipment.
+
+2024-04-04 15:34:36
+User: 8.	What is the maximum value a gift card can hold?
+Assistant: The maximum value a gift card can hold is £500.
+
+2024-04-04 15:35:11
+User: 9.	A customer currently has M140 broadband, they want to switch to M145 broadband, what increase in connection speed would they receive?
+Assistant: By switching from M140 broadband to M145 broadband, the customer would experience an increase in connection speed from 250 Mbps to 500 Mbps, doubling their internet speed.
+
+2024-04-04 15:35:34
+User: 10.	Which broadband services are unlimited?
+Assistant: The M140, M145, and M150 Fibre broadband services are unlimited, meaning they have no usage limits imposed on them.
+

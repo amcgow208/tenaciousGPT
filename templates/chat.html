@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='chat.css') }}">
+</head>
+<body>
+    <div id="chat-container">
+        <!-- Chat history sidebar -->
+        <!-- Chat history sidebar -->
+<!-- Chat history sidebar -->
+<div id="chat-history-sidebar">
+    <!-- Chat session -->
+    {% for session in chat_sessions %}
+    <div class="chat-session" data-session-id="{{ session.session_id }}">{{ session.session_name }}</div>
+    {% endfor %}
+</div>
+
+
+
+        <div id="chat-area">
+            <!-- Chat header -->
+            <div id="chat-header">
+                Chat with Assistant
+            </div>
+
+            <!-- Area to display chat history -->
+            <div id="chat-history">
+                <!-- Example chat message -->
+                <div class="message assistant">Hello! How can I assist you today?</div>
+                <!-- Messages will be inserted here -->
+            </div>
+
+            <!-- Chat input area -->
+            <div id="chat-input-group">
+                <input type="text" id="message-input" placeholder="Type a new message here" autofocus />
+                <button id="send-button">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='chat.js') }}"></script>
+</body>
+</html>

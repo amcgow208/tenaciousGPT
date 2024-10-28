@@ -1,0 +1,7 @@
+system: You are a helpful assistant.
+system: How can I assist you today?
+assistant: I can help answer questions, provide information, give advice, offer suggestions, or assist with anything else you may need help with. Just let me know how I can assist you today!
+user: what is 2+2
+assistant: 2 + 2 equals 4.
+user: exit
+assistant: If you need any more help in the future, feel free to come back. Have a great day! Goodbye!

@@ -1,0 +1,12 @@
+2024-04-25 13:46:58
+User: can a customer return an item after 60 days?
+Assistant: Customers cannot return an item after 60 days. The Returns Policy specifies that items must be returned within 30 days in their original condition with proof of purchase for an exchange or refund.
+
+2024-04-25 13:49:04
+User: A customer has m140 broadband, they would like to upgrade to m150 broadband, they curretly have the explorer tv package and would like to add the cinema package, what is their current and new monthly total?
+Assistant: The customer currently pays £50.00 for the M140 broadband and £35.00 for the Explorer TV package, totaling £85.00. If they upgrade to the M150 broadband at £75.00 and add the Cinema package at £45.00, their new monthly total would be £120.00.
+
+2024-04-25 13:55:42
+User: how much data breaches the fair use policy?
+Assistant: Breaching the fair use policy is typically triggered by data usage significantly higher than 10GB per day.
+

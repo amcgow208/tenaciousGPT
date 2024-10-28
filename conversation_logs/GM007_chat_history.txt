@@ -1,0 +1,20 @@
+2024-04-04 17:32:08
+User: How much of a price increase would a customer face to increase from M130 broadband to M150?
+Assistant: To upgrade from M130 broadband to M150 broadband, a customer would face a price increase of £44.50 per month (£75.00 - £30.50).
+
+2024-04-04 17:32:59
+User: Typically, how much data usage breaches fair usage?
+Assistant: Typically, breaching fair usage involves using around 10GB of data per day, as outlined in the policy.
+
+2024-04-04 17:34:28
+User: Can a customer return an item after 60 days for a refund?
+Assistant: No, according to the Returns Policy stated in the document, items must be returned within 30 days for a refund. Returning an item after 60 days may not be eligible for a refund.
+
+2024-04-04 17:35:49
+User: A customer has M140 braodband and the cinema package; how much will their monthly bill increase if they add the explorer package?
+Assistant: Adding the Explorer Package to the customer's existing M140 broadband and Cinema Package would increase their monthly bill by £35.00.
+
+2024-04-04 17:36:28
+User: How long are gift cards valid for?
+Assistant: Gift cards from the store are valid for 24 months from the last transaction.
+

@@ -1,0 +1,28 @@
+2024-04-08 14:23:16
+User: hi
+Assistant: Hello! How can I assist you today?
+
+2024-04-08 14:32:12
+User: installaton tv
+Assistant: Our TV installation service includes unboxing, setting up, and connecting your new TV to existing devices and the internet. The service costs £110 and is available for LG, Samsung, and Sony TVs. Wall mounting services are also available for an additional fee.
+
+2024-04-08 14:33:07
+User: i want to install a Hisense U8K ULED TV, how much would that cost and can we?
+Assistant: To install a Hisense U8K ULED TV, our TV installation service is available for LG, Samsung, and Sony TVs only. The cost for TV installation is £110. Unfortunately, the installation service is not specifically designated for Hisense U8K ULED TVs.
+
+2024-04-08 14:33:43
+User: which supplier offer early booking?
+Assistant: The supplier offering early booking is TechAdvance for the latest in electronics and gadgets, HomeComforts for premium appliances, and LeisureGear for outdoor and sports equipment.
+
+2024-04-08 14:34:30
+User: what is the maximum value a giftcard can hold?
+Assistant: The maximum value a gift card can hold is £500.
+
+2024-04-08 14:35:06
+User: what is the increase in connection speed between m140 and m145
+Assistant: The increase in connection speed between M140 Fibre broadband and M145 Fibre broadband is 250 Mbps to 500 Mbps, resulting in a doubling of the speed from M140 to M145.
+
+2024-04-08 14:35:37
+User: which broadband services are unlimited?
+Assistant: The M140, M145, and M150 Fibre broadband services are unlimited, meaning they do not have a usage limit applied to them.
+

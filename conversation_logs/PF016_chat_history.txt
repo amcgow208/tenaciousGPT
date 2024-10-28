@@ -1,0 +1,32 @@
+2024-04-14 12:18:30
+User: M130 bb price
+Assistant: The price for the M130 Fibre broadband package is £30.50 a month.
+
+2024-04-14 12:18:42
+User: m150 BB price
+Assistant: The price for the M150 Fibre broadband package is £75.00 per month with a setup cost of £75.
+
+2024-04-14 12:19:02
+User: 75-30.50
+Assistant: The result of '75-30.50' is £44.50.
+
+2024-04-14 12:19:20
+User: how much data to breach fair use?
+Assistant: Breaching the fair use policy typically occurs if your data usage significantly exceeds 10GB per day. Exceeding this limit may lead to restrictions or consequences as outlined in the policy.
+
+2024-04-14 12:19:41
+User: Can someone return an order after 2 months?
+Assistant: In general, our Returns Policy allows for returns within 30 days of purchase, provided the item is in its original condition with proof of purchase. After 2 months, returns may not be accepted unless there is a valid reason, such as a fault covered by the warranty. It's best to contact our customer support for further assistance in this situation.
+
+2024-04-14 12:20:28
+User: Whats the cost of m140 + cinema
+Assistant: The cost of the M140 Fibre broadband package is £50.00 a month with a one-time setup fee of £25, and the Cinema Premiere Package is priced at £45.00 a month. Therefore, the total cost of the M140 package combined with the Cinema Premiere Package would be £95.00 per month.
+
+2024-04-14 12:20:44
+User: whats the cost of m140 + cinema + explorer
+Assistant: The cost of M140 Fibre broadband is £50.00 a month with a one-time setup fee of £25. Adding the Cinema Package at £45.00 a month to this brings the total to £95.00. Finally, incorporating the Explorer Package at £35.00 a month would make the total cost £130.00 per month for M140 + Cinema + Explorer.
+
+2024-04-14 12:21:08
+User: How long is a gift card able to be used?
+Assistant: A gift card can be used for up to 24 months from the last transaction.
+

@@ -1,0 +1,35 @@
+2024-04-14 13:11:18
+User: whats the price difference between 130 BB and 150
+Assistant: The price difference between the M130 Fibre broadband package, priced at £30.50 a month, and the M150 Fibre broadband package, priced at £75.00 a month, is £44.50 per month.
+
+2024-04-14 13:11:39
+User: how do I breach the fair use policy
+Assistant: To breach the fair use policy, you would need to exceed the typical data usage pattern significantly, such as using over 10GB of data per day on a regular basis. This would be considered inappropriate use of the service and would put you in breach of the policy.
+
+2024-04-14 13:12:01
+User: How long is the returns period
+Assistant: The returns period is 30 days for most items, during which you can return the product in its original condition with proof of purchase for an exchange or refund.
+
+2024-04-14 13:12:43
+User: List the prices of the following -
+Assistant: List the prices of the following broadband packages:
+
+- M125 Fibre broadband: £26.50 a month
+- M130 Fibre broadband: £30.50 a month
+- M135 Fibre broadband: £40.00 a month
+- M140 Fibre broadband: £50.00 a month with a one-time setup fee of £25
+- M145 Fibre broadband: £60.00 a month with a setup fee of £50
+- M150 Fibre broadband: £75.00 a month with a setup cost of £75
+
+2024-04-14 13:13:01
+User: List the prices of the following - m140, cinema, explorer
+Assistant: The prices for the following are as follows:
+
+- M140 Fibre broadband: £50.00 a month with a one-time setup fee of £25
+- Cinema Package: £45.00 a month
+- Explorer Package: £35.00 a month
+
+2024-04-14 13:13:28
+User: when do gift carsd expire
+Assistant: Gift cards expire 24 months from the last transaction and have a minimum value of £5 and a maximum value of £500.
+

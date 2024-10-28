@@ -1,0 +1,265 @@
+{
+  "categories": [
+    {
+      "categoryName": "Broadband Services",
+      "policies": [
+        {
+          "id": "001",
+          "title": "M125 Fibre broadband",
+          "content": "Experience our M125 Fibre broadband with a speed of 132 Mbps average UK speed. This package is perfect for streaming, gaming, and large downloads, all for just £26.50 a month with no setup cost. Stay connected with reliable service and support. A usage limit of 25GB per month is applied to this service.",
+          "keywords": ["M125", "Fibre broadband", "132 Mbps", "£26.50", "streaming", "gaming", "downloads"]
+        },
+        {
+          "id": "002",
+          "title": "M130 Fibre broadband",
+          "content": "Our M130 Fibre broadband offers a robust 150 Mbps average UK speed, ideal for households with multiple users. For only £30.50 a month and a free setup, you can enjoy uninterrupted browsing and entertainment across all your devices.A usage limit of 30GB per month is applied to this service.",
+          "keywords": ["M130", "Fibre broadband", "150 Mbps", "£30.50", "multi-user", "entertainment"]
+        },
+        {
+          "id": "003",
+          "title": "M135 Fibre broadband",
+          "content": "With the M135 Fibre broadband, leverage 200 Mbps of average UK speed at your fingertips. At just £40.00 a month and no setup cost, it's the ultimate package for professionals and hobbyists alike who demand quick and responsive internet access.A usage limit of 35GB per month is applied to this service.",
+          "keywords": ["M135", "Fibre broadband", "200 Mbps", "£40.00", "professional", "responsive"]
+        },
+        {
+          "id": "004",
+          "title": "M140 Fibre broadband",
+          "content": "Upgrade to M140 Fibre broadband for an exceptional 250 Mbps average UK speed. Whether working from home or enjoying high-definition content, the £50.00 monthly cost and a one-time setup fee of £25 is an investment in seamless connectivity. This is an unlimited broadband service, no usage limit applies",
+          "keywords": ["M140", "Fibre broadband", "250 Mbps", "£50.00", "high-definition", "seamless"]
+        },
+        {
+          "id": "005",
+          "title": "M145 Fibre broadband",
+          "content": "Dive into the fast lane with M145 Fibre broadband, boasting a 500 Mbps average UK speed. Priced at £60.00 a month with a setup fee of £50, it's tailored for those who lead a digitally-driven lifestyle, complete with around-the-clock customer service. This is an unlimited broadband service, no usage limit applies",
+          "keywords": ["M145", "Fibre broadband", "500 Mbps", "£60.00", "digitally-driven", "customer service"]
+        },
+        {
+          "id": "006",
+          "title": "M150 Fibre broadband",
+          "content": "M150 Fibre broadband is our premium offering, with 1 Gbps average UK speed that sets the benchmark for online experiences. For £75.00 a month and a setup cost of £75, this package is for the discerning user who accepts nothing but the fastest and most reliable connection. This is an unlimited broadband service, no usage limit applies",
+          "keywords": ["M150", "Fibre broadband", "1 Gbps", "£75.00", "premium", "benchmark", "reliable"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Usage Policies",
+      "policies": [
+        {
+          "id": "007",
+          "title": "Why Is A Fair Use Policy Necessary?",
+          "content": "A very small number of customers transfer large amounts of data throughout the day. This type of activity uses a lot of bandwidth and can significantly reduce the speed at which other customers can access the internet during peak hours. We don't believe this is fair to the majority of our customers. This Policy is designed to ensure that our customers experience the best possible on demand, quick and reliable Service.",
+          "keywords": ["Fair Use", "Bandwidth", "Data Transfer", "Internet Speed"]
+        },
+        {
+          "id": "008",
+          "title": "What Will Happen If You Do Not Comply With Our Fair Usage Policy?",
+          "content": "Our Services are designed to be suitable for customers with a typical usage pattern. The Policy will affect you if you are one of the very few customers who make inappropriate use of the Services. You must make sure that any use of our Services, by you or anyone else using your account, complies with this Policy. If your usage patterns are significantly higher from standard then you could be in breach of the Policy. Typically 10Gb of Data usage per day would trigger the policy",
+          "keywords": ["Fair Usage Policy", "Compliance", "Bandwidth Management", "Service Suspension"]
+        },
+        {
+          "id": "009",
+          "title": "List of Available Broadband Services",
+          "content": "M130 Fibre broadband: Speed: 150 Mbps average UK speed. Cost: £30.50 a month. Setup cost: Free. M135 Fibre broadband Speed: 200 Mbps average UK speed. Cost: £40.00 a month. Setup cost: Free. M140 Fibre broadband Speed: 250 Mbps average UK speed. Cost: £50.00 a month. Setup cost: £25. M145 Fibre broadband Speed: 500 Mbps average UK speed. Cost: £60.00 a month. Setup cost: £50.M150 Fibre broadband Speed: 1 Gbps average UK speed. Cost: £75.00 a month. Setup cost: £75.",
+          "keywords": ["Broadband", "Service List", "Fibre", "Speed", "Cost"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Service Usage and Security",
+      "policies": [
+        {
+          "id": "010",
+          "title": "Your use of the Service",
+          "content": "The Service is intended for your personal use only and in accordance with these Terms and Conditions. Therefore, you must not re-sell, transfer, assign or sub-license the Service (or any part of it) or pass on your log-in details to anyone else...",
+          "keywords": ["personal use", "terms and conditions", "security", "VPN", "personal firewall", "acceptable use", "fair use"]
+        },
+        {
+          "id": "011",
+          "title": "Security & Passwords",
+          "content": "Where we have given you a username and password (or where you have selected one) for your WiFi account you are responsible for keeping these details confidential. You must not share your username and password with anyone...",
+          "keywords": ["security", "passwords", "username", "WiFi account", "confidential"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Returns and Refunds",
+      "policies": [
+        {
+          "id": "012",
+          "title": "Returns Policy",
+          "content": "If you've changed your mind about keeping your purchase, please return it within 30 days in its original condition with proof of purchase for an exchange or refund. Products must be returned in the original packaging and in a resalable condition. Online purchases can be returned in-store or via post, however, certain high-value items may require return to specific locations.",
+          "keywords": ["returns", "refund", "exchange", "30 days", "proof of purchase", "original packaging"]
+        },
+        {
+          "id": "013",
+          "title": "Non-returnable Items",
+          "content": "Certain items cannot be returned, including but not limited to custom-made or personalized items, opened software, perishable goods, and products marked as final sale.",
+          "keywords": ["non-returnable", "custom-made", "personalized", "opened software", "perishable goods", "final sale"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Delivery Services",
+      "policies": [
+        {
+          "id": "014",
+          "title": "Standard Delivery",
+          "content": "We offer standard delivery for most items, with expected delivery times listed on each product's page. Standard delivery charges may apply based on the item's size and weight.",
+          "keywords": ["standard delivery", "delivery times", "delivery charges", "product page"]
+        },
+        {
+          "id": "015",
+          "title": "Express Delivery",
+          "content": "Express delivery is available for select items, offering faster delivery times for an additional charge. Availability and rates for express delivery can be found on the product's page.",
+          "keywords": ["express delivery", "fast delivery", "additional charge", "product page"]
+        },
+        {
+          "id": "018",
+          "title": "Small Item Deliveries",
+          "content": "We offer free standard delivery for small items. Expect your items to arrive within 3-5 working days...",
+          "keywords": ["small item deliveries", "free standard delivery", "expedited delivery"]
+        },
+        {
+          "id": "019",
+          "title": "Large Item Deliveries",
+          "content": "Large items, such as furniture and large appliances, are delivered by our two-person team...",
+          "keywords": ["large item deliveries", "delivery costs", "installation services"]
+        },
+        {
+          "id": "020",
+          "title": "TV Installation Services",
+          "content": "Our TV installation service includes unboxing, setting up, and connecting your new TV to existing devices and the internet...",
+          "keywords": ["TV installation", "service costs", "wall mounting"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Warranty and Support",
+      "policies": [
+        {
+          "id": "016",
+          "title": "Product Warranty",
+          "content": "Most products come with a standard warranty covering manufacturing defects. Extended warranties are available for purchase for some products.",
+          "keywords": ["product warranty", "manufacturing defects", "extended warranty", "purchase"]
+        },
+        {
+          "id": "017",
+          "title": "Customer Support",
+          "content": "Our customer support team is available to assist with product inquiries, order issues, and warranty claims. Contact information for customer support can be found on our website.",
+          "keywords": ["customer support", "product inquiries", "order issues", "warranty claims", "contact information"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Delivery Services",
+      "policies": [
+        {
+          "id": "018",
+          "title": "Small Item Deliveries",
+          "content": "We offer free standard delivery for small items. Expect your items to arrive within 3-5 working days...",
+          "keywords": ["small item deliveries", "free standard delivery", "3-5 working days"]
+        },
+        {
+          "id": "019",
+          "title": "Large Item Deliveries",
+          "content": "Large items, such as furniture and large appliances, are delivered by our two-person team. We aim to provide convenient delivery times and will contact you to arrange a delivery date. Delivery costs for large items may vary based on location and will be confirmed during the purchase process.",
+          "keywords": ["large item deliveries", "two-person team", "delivery costs", "arrange delivery"]
+        },
+        {
+          "id": "020",
+          "title": "TV Installation Services",
+          "content": "Our TV installation service includes unboxing, setting up, and connecting your new TV to existing devices and the internet. Wall mounting services are also available for an additional fee. Please select this service at checkout if required. TV installation costs £110. The TV installation service is only available on LG, Samsung, and Sony TV's.",
+          "keywords": ["TV installation", "unboxing", "setting up", "wall mounting", "additional fee"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Product Policies",
+      "policies": [
+        {
+          "id": "021",
+          "title": "Custom Items Policy",
+          "content": "Custom-made items, such as sofas and personalized gifts, cannot be returned unless they are faulty. Production times vary; please check the product page for estimates. Prices are as marked and include customization fees.",
+          "keywords": ["custom items", "non-returnable", "faulty", "production times", "customization fees"]
+        },
+        {
+          "id": "022",
+          "title": "Gift Cards Terms and Conditions",
+          "content": "Gift cards can be used as payment for any product in our stores and online. They cannot be exchanged for cash or used to pay for other gift cards. Valid for 24 months from the last transaction.A minimum of £5 can be added to a gift card and a gift card has a maximum value of £500",
+          "keywords": ["gift cards", "payment", "24 months validity", "non-exchangeable"]
+        },
+        {
+          "id": "023",
+          "title": "Extended Warranties for Electronics",
+          "content": "Extend the warranty on your electronics for peace of mind. Our extended warranty covers repairs or replacements for up to five years. Terms and conditions apply; see our website for details.",
+          "keywords": ["extended warranty", "electronics", "repairs", "replacements", "five years"]
+        },
+        {
+          "id": "024",
+          "title": "Customer Satisfaction Guarantee",
+          "content": "Your satisfaction is our priority. If you're not happy with a purchase, let us know, and we'll make it right, whether through a refund, exchange, or repair as per our policies.",
+          "keywords": ["customer satisfaction", "guarantee", "refund", "exchange", "repair"]
+        },
+        {
+          "id": "025",
+          "title": "Eco-Friendly Packaging Initiative",
+          "content": "We're committed to reducing waste and using sustainable materials in our packaging. Help us by recycling packaging materials where possible.",
+          "keywords": ["eco-friendly", "packaging", "sustainable materials", "recycling"]
+        }
+      ]
+    },
+    {
+      "categoryName": "Warranty and Early Booking",
+      "policies": [
+        {
+          "id": "026",
+          "title": "Items Covered Under Extended Warranty",
+          "content": "Our extended warranty covers a wide range of products for added peace of mind. Covered items include electronics such as TVs, laptops, and smartphones; large appliances like refrigerators and washing machines; and small appliances including microwaves and coffee makers. For a complete list of covered items and warranty services, please visit our warranty information page.",
+          "keywords": ["extended warranty", "covered items", "electronics", "appliances"]
+        },
+        {
+          "id": "027",
+          "title": "Early Booking Advantage",
+          "content": "Take advantage of our Early Booking Advantage for select items not yet in stock. By reserving your product before it arrives in our warehouse, you ensure immediate dispatch upon arrival, guaranteeing one of the fastest delivery times available. Early booking is perfect for high-demand items or gifts for special occasions. Check product pages for early booking eligibility.",
+          "keywords": ["early booking", "advantage", "high-demand items", "fast delivery"]
+        },
+        {
+          "id": "028",
+          "title": "Suppliers Offering Early Booking",
+          "content": "We partner with leading suppliers to offer early booking on a variety of products. Our key partners include TechAdvance for the latest in electronics and gadgets; HomeComforts for premium appliances; and LeisureGear for outdoor and sports equipment. These partnerships allow us to bring you exclusive deals and priority access to new releases and limited-edition products. For a full list of participating suppliers and available products for early booking, visit our Early Booking section.",
+          "keywords": ["suppliers", "early booking", "TechAdvance", "HomeComforts", "LeisureGear", "exclusive deals", "priority access"]
+        },
+        {
+          "id": "029",
+          "title": "Estimated usage",
+          "content": "Activity : Browsing the internet \tData used: 10-25MB/hr\nActivity: Reading/sending an email \tData used: Approx 0.1MB\nActivity: Browsing Facebook \tData used: Approx 20MB/hr\nActivity: Downloading an HD movie Data used: 4GB\nActivity: Watching Netflix \tData used: 1GB/hr for SD, 3GB/hr for HD \t \nActivity: Watching NOW \tData used: Approx 1GB/hr \t \nActivity: Listening to music on Spotify \tData used: Approx 0.1GB/hr \t \nActivity: Watching YouTube \tData used: Approx 0.25GB/hr \t \nActivity: Online gaming \tData used: Approx 2GB/hr",
+          "keywords": ["suppliers", "early booking", "TechAdvance", "HomeComforts", "LeisureGear", "exclusive deals", "priority access"]
+        }
+      ]
+    },
+    {
+  "categoryName": "TV Entertainment Packages",
+  "policies": [
+    {
+      "id": "030",
+      "title": "Cinema Package",
+      "content": "Immerse yourself in the world of movies with our Cinema Premiere Package. Offering over 100 movie channels including exclusive premieres, classics, and international film festivals, it's the perfect choice for movie lovers. Enjoy the latest blockbusters from the comfort of your home, with crystal-clear HD and surround sound. Priced at £45.00 a month, it's your own personal cinema experience.",
+      "keywords": ["cinema", "movies", "premieres", "HD", "international", "film festivals"]
+    },
+    {
+      "id": "031",
+      "title": "Sports Package",
+      "content": "Catch every game, match, and race with our Global Sports Fanatic Package. Featuring over 150 sports channels covering football, basketball, cricket, motor racing, and more, you won't miss a moment of the action. This package includes exclusive access to international competitions and behind-the-scenes content for £50.00 a month. For the sports enthusiast who wants it all.",
+      "keywords": ["sports", "football", "basketball", "cricket", "racing", "international"]
+    },
+    {
+      "id": "032",
+      "title": "Explorer Package",
+      "content": "Travel the globe from your living room with the World Explorer Package. Offering a curated selection of over 80 international channels, including news, documentaries, and cultural programming, it's the perfect way to explore new perspectives and cultures. Learn, explore, and be entertained for just £35.00 a month. The world is just a click away.",
+      "keywords": ["international", "news", "documentaries", "culture", "travel", "explore"]
+    }
+  ]
+    }
+
+  ]
+}

@@ -1,0 +1,20 @@
+2024-04-08 13:59:18
+User: if a customer switches from M130 broadband to M150, by how much would their monthly cost increase?
+Assistant: Switching from M130 broadband to M150 broadband would result in a monthly cost increase of £44.50 (£75.00 - £30.50 = £44.50).
+
+2024-04-08 13:59:59
+User: what amount of data usage would breach the broadband fair use policy?
+Assistant: Breaching the broadband fair use policy typically involves data usage significantly higher than the standard. Typically, using 10GB of data per day would trigger the fair use policy.
+
+2024-04-08 14:00:46
+User: it's been 60 days since a customer purchased an item, can they return it for a refund?
+Assistant: Based on the Returns Policy outlined in the document, customers can return purchased items within 30 days for a refund if the item is in its original condition with proof of purchase. After 30 days, refunds may not be possible unless the item is faulty or covered by specific warranty terms.
+
+2024-04-08 14:02:06
+User: cinema package with the M140 boradband, if I add the explorer package what would be the new monthly total compared to the original?
+Assistant: Adding the Cinema Package (£45.00/month) and the Explorer Package (£35.00/month) to the M140 Fibre broadband (£50.00/month) would result in a new monthly total of £130.00. This is compared to the original monthly cost of £50.00 for the M140 Fibre broadband alone.
+
+2024-04-08 14:02:50
+User: gift card valid for how long?
+Assistant: The gift card is valid for 24 months from the last transaction.
+

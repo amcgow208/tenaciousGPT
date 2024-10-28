@@ -1,0 +1,28 @@
+<!-- search_policies.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Policy Search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="search-container">
+        <h2>Policy Search</h2>
+        <form method="POST" action="{{ url_for('search_policies') }}">
+            <input type="text" name="search_query" placeholder="Search for policies..." required>
+            <button type="submit">Search</button>
+        </form>
+        {% if search_results %}
+            <ol class="results-list">
+                {% for policy in search_results %}
+                    <li><a href="{{ url_for('policy_details', policy_id=policy[0]) }}">{{ policy[1] }}</a></li>
+                {% endfor %}
+            </ol>
+        {% else %}
+            <p>No results found.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
